@@ -1,0 +1,5 @@
+STATUS,billing_status,descricao
+A faturar,PENDENTE_FATURAMENTO,Serviço concluído ou apto a faturar mas ainda sem emissão
+A receber,FATURADO_PENDENTE,Já faturado/emitido porém ainda não recebido
+Autorizado,EM_ANDAMENTO,Autorizado para execução (não faturado)
+Em execução,EM_ANDAMENTO,Execução em andamento (não faturado)

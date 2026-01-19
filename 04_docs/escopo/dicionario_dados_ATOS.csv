@@ -1,0 +1,12 @@
+coluna,tipo_pandas,n_linhas,n_vazios,exemplo_1,exemplo_2,exemplo_3
+AUTORIZAÇÃO,datetime64[ns],66,1,2025-02-28,2025-05-23,2025-07-28
+CHAMADO,string,66,1,2025/1717-1432,4507425209,4507603968
+CLIENTE,string,66,1,Banco do Nordeste,RAIA DROGASIL,RAIA DROGASIL
+GESTOR,string,66,1,Ione,Luana Victoria,linux leonex
+OS,string,66,3,2363,2725,2882
+PONTO,string,66,1,AG. CAJAZEIRAS ,DS2176 SOROCABA 20,DS2236 PILAR DO SUL 1 
+RECEITA,float64,66,0,123120.48,30499.62,11350.32
+SERVIÇO,string,66,1, Reforma da coberta,Infiltração ,Infiltração
+STATUS,string,66,1,A faturar,A faturar,A faturar
+TÉRMINO,datetime64[ns],66,30,2025-07-31,2025-06-13,2025-08-08
+UF,string,66,1,PB,SP,SP

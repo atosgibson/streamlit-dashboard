@@ -1,0 +1,12 @@
+cliente,tipo_servico,sla_dias,base
+*,Pintura,30,AUTORIZAÇÃO
+*,Hidráulica,15,AUTORIZAÇÃO
+*,Portas & Acessos,10,AUTORIZAÇÃO
+*,Emergencial,2,AUTORIZAÇÃO
+*,Civil,45,AUTORIZAÇÃO
+*,Coberta/Telhado,30,AUTORIZAÇÃO
+*,Acessibilidade,30,AUTORIZAÇÃO
+*,Fachada & Revestimento,60,AUTORIZAÇÃO
+*,Sinalização,20,AUTORIZAÇÃO
+*,Laudos,20,AUTORIZAÇÃO
+*,NAO_MAPEADO,30,AUTORIZAÇÃO
